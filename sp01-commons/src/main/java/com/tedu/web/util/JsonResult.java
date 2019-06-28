@@ -90,7 +90,5 @@ public class JsonResult<T> {
 		return JsonUtil.to(this);
 	}
 
-//bbbbbbbbbbbbbbbbbbbbbb
-
-//aaaaaaaaaaaaaaaaa
+//bbbbbbbbbbbbbbbbbbb
 }
